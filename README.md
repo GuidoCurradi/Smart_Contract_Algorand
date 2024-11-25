@@ -1,2 +1,2 @@
 # Smart_Contract_Algorand
-Progetto per la tesi
+Si vuole analizzare le potenzialità di Algorand nello sviluppo di SmartContract con particolare attenzione sul trilemma blockchain
